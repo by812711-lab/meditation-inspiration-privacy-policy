@@ -47,7 +47,6 @@ Effective Date / 生效日期：January 31, 2026
 如您对本隐私政策有任何疑问，可通过以下方式联系开发者：
 
 📧 联系邮箱：by812711@qq.com
-（请替换为你的真实邮箱）
 
 English Version
 
@@ -92,4 +91,3 @@ We may update this Privacy Policy from time to time. Any changes will be publish
 If you have any questions about this Privacy Policy, please contact:
 
 📧 Email: by812711@qq.com
-(Replace with your actual email address)
